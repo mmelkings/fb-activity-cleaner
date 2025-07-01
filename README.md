@@ -28,8 +28,8 @@
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/mmelkings/fb-activity-cleaner
-cd fb-cleaner
+git clone https://github.com/mmelkings/fb-activity-cleaner.git
+cd fb-activity-cleaner
 ```
 
 2. Instala las dependencias:

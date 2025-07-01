@@ -26,8 +26,8 @@ Tired of manually deleting your old posts, random likes, or past tags on Faceboo
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/mmelkings/fb-cleaner.git
-cd fb-cleaner
+git clone https://github.com/mmelkings/fb-activity-cleaner.git
+cd fb-activity-cleaner
 ```
 
 2. Install dependencies:
