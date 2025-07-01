@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Chrome data
+chrome-data/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
