@@ -4,6 +4,8 @@
   <img src="logo.png" alt="Facebook Activity Cleaner Logo" width="200"/>
 </p>
 
+[English version here](README_EN.md)
+
 ¿Te da flojera borrar uno por uno tus posts viejos, likes random o etiquetas del pasado en Facebook? Este script lo hace por ti de forma automática, permitiéndote eliminar automáticamente publicaciones, me gusta, etiquetas y otros elementos de tu historial de actividad.
 
 ## 🚀 Características
