@@ -1,0 +1,6 @@
+2025/06/30-21:47:43.717 97c59 Reusing MANIFEST /Users/alemelendez/projects/fb-cleaner/chrome-data/Default/Local Storage/leveldb/MANIFEST-000001
+2025/06/30-21:47:43.719 97c59 Recovering log #73
+2025/06/30-21:47:43.719 97c59 Reusing old log /Users/alemelendez/projects/fb-cleaner/chrome-data/Default/Local Storage/leveldb/000073.log 
+2025/06/30-22:08:44.498 97c5b Level-0 table #78: started
+2025/06/30-22:08:44.500 97c5b Level-0 table #78: 11483 bytes OK
+2025/06/30-22:08:44.504 97c5b Delete type=0 #73

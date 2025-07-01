@@ -1,0 +1,17 @@
+{
+  "name": "fb-cleaner",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Script para limpiar actividad de Facebook automáticamente",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "puppeteer": "^21.7.0"
+  }
+}
